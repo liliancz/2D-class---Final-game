@@ -1,0 +1,24 @@
+﻿  main.cpp
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(100): error C2065: 'Box': undeclared identifier
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(100): error C2065: 'a': undeclared identifier
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(100): error C2065: 'b': undeclared identifier
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(101): error C2448: 'collision_with_dir': function-style initializer appears to be a function definition
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(127): error C2065: 'Box': undeclared identifier
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(127): error C2065: 'a': undeclared identifier
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(127): error C2059: syntax error: 'const'
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(128): error C2143: syntax error: missing ';' before '{'
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(128): error C2447: '{': missing function header (old-style formal list?)
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(209): error C2065: 'Box': undeclared identifier
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(209): error C2065: 'a': undeclared identifier
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(209): error C2059: syntax error: 'const'
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(210): error C2143: syntax error: missing ';' before '{'
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(210): error C2447: '{': missing function header (old-style formal list?)
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(263): error C2065: 'Box': undeclared identifier
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(263): error C2065: 'box': undeclared identifier
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(263): error C2062: type 'int' unexpected
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(264): error C2143: syntax error: missing ';' before '{'
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(264): error C2447: '{': missing function header (old-style formal list?)
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(281): error C2065: 'Box': undeclared identifier
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(281): error C2065: 'box': undeclared identifier
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(281): error C2182: 'respawn_box': illegal use of type 'void'
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(282): error C2448: 'respawn_box': function-style initializer appears to be a function definition

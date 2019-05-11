@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(54): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(128): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(193): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ale\documents\game_2nd\game 2373 2d\project_make_a_game\main.cpp(199): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 2 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDL_intro.vcxproj -> C:\Users\ALE\Documents\GAME_2nd\GAME 2373 2D\PROJECT_MAKE_A_GAME\Release\SDL_intro.exe
